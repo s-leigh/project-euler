@@ -1,1 +1,1 @@
-Solutions to problems at projecteuler.net
+Solutions to problems at [projecteuler.net](https://projecteuler.net)
